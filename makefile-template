@@ -1,5 +1,5 @@
 # Author:betahxy
-# This is a template makefile for a c project
+# This is a template makefile for a c++ project
 # Usually you just to copy this one into a sub folder if you need to compile sub folders
 # Please you need to add that sub folder name in $(SUB_DIR), you need to control your own folder hierarchy
 MAKE=make
